@@ -13,15 +13,6 @@ Due to the large scale of the processed data (2M+ records), the "Gold Standard" 
 * **Focus:** Electronics Category (February 2020)
 * **Download Link:** [Download Dataset via Mediafire](https://www.mediafire.com/file/k8kc5pdt8nxi1zd/electronics_full_cleaned.csv/file)
 
----
-
-## 👥 Project Team
-* **Omar Diab (Student 1):** Lead Technician – Data Extraction, Cleaning, & Optimization.
-* **Ahmed Baher:** Conversion Analyst.
-* **Shaza Alaa:** Market Research Specialist.
-* **Haneen Ahmed:** Dashboard Designer & Reporting.
-
----
 
 ## 🛠️ Technical Pipeline (Student 1)
 
@@ -35,14 +26,7 @@ Prepares the data for high-speed analysis.
 - **Type Casting:** Converts timestamps to datetime and optimizes event types to categorical data to reduce memory usage.
 - **Validation:** Ensures 100% data integrity for brand and price columns before team hand-off.
 
----
 
-## 📊 Analysis Roadmap
-* **Week 1:** Data Procurement and Cleaning (Lead Technician).
-* **Week 2:** Behavior Analysis (Purchase Funnels) and Market Research (Price Bucketing).
-* **Week 3:** Final Dashboard construction in **Power BI** and Strategic Business Recommendations.
-
----
 
 ## 💻 Tech Stack
 - **Python 3.8+** (Pandas, NumPy)
